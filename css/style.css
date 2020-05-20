@@ -80,12 +80,12 @@ header h1{
 }
 
 .site-header{
-    background-color: darkblue;
-    height: 30vh;
+height: 30vh;
 }
 
 .contenido-header{
     height: 80%;
+    background-color: darkblue;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
